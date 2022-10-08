@@ -80,23 +80,22 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281348106274', 'DaniXd', true],
-['6281251549899', 'DaniOfc', true]
+['6282283009499', 'thebilzbotz', true],
+['-_-', '-_-', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281352848936'
-global.nomorown = '6281251549899'
-global.nomorown1 = '6281251549899'
-global.nomorown2 = '6281348106274'
-global.nomorwa = '0'
-
+global.nomorbot = '62823856569'
+global.nomorown = '6282283009499'
+global.nomorown1 = '-'
+global.nomorown2 = '-'
+global.nomorwa = '0
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
 global.author = 'DaniXd'
-global.namebot = '​ DaniBotz'
+global.namebot = ''thebilzbot'
 global.wm = '© DaniBotz Bye DaniXd'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.wm = 'DaniXd '
